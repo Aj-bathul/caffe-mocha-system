@@ -1,0 +1,28 @@
+Order Number: 2
+Item ID: 003, Price: 200.0
+Total Bill: 200.0
+
+Order Number: 003
+Item ID: 0849343, Price: Not found
+Total Bill: 0.0
+
+Order Number: 002
+Item ID: Latte, Price: Not found
+Total Bill: 0.0
+
+Order Number: 001
+Item ID: Espresso, Price: Not found
+Total Bill: 0.0
+
+Order Number: 004
+Item ID: Espresso, Price: Not found
+Total Bill: 0.0
+
+Order Number: 006
+Item ID: 003, Price: 200.0
+Total Bill: 200.0
+
+Order Number: 2
+Item ID: 003, Price: 200.0
+Total Bill:Rs. 200.0
+

@@ -1,0 +1,5 @@
+001,Latte,Rich and creamy espresso drink,600.0
+002,Espresso,Strong coffee shot,760.0
+003,bluberry cake,filled with blueberries,200.0
+004,strawberry geatue,tasty strawberry filles with cream inside,350.0
+006,pastry egg ,egg pastry with roasted onions,150.0
